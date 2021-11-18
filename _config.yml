@@ -1,8 +1,9 @@
+theme:minima
 title: ISSAERIUM 21
 author: Issadeen
 email: issadeenabdiali@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  ISSAERIUM 2Q is an upcoming tech company which aims to aid people in differet aspects of life
+  ISSAERIUM 21 is an upcoming tech company which aims to aid people in differet aspects of life
 
 # social links
 twitter_username: isserium-21 # DO NOT include the @ character, or else the build will fail!
