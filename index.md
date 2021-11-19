@@ -1,7 +1,7 @@
+
 ## Welcome to Issaerium-21 and Kakridez companies. 
 
- Issaerium-21 is an upcoming company which wants to be empower people to do Amazing things [editor on GitHub](https://github.com/Issadeen/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+ Issaerium-21 is an upcoming company which wants to be empower people to do Amazing things 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
