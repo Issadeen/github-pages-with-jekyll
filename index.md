@@ -1,6 +1,6 @@
 ## Welcome to Issaerium-21
 
- I'm standing with kakaYou can use the [editor on GitHub](https://github.com/Issadeen/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ Issaerium-21 is an upcoming company which wants to be empower people to do Amazing things [editor on GitHub](https://github.com/Issadeen/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -10,6 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+Reach us on
 
 # Issadeenabdiali@outlook.com
 ## Issadeen@issaerium21.onmicrosoft.com
